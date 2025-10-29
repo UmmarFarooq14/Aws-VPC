@@ -4,7 +4,8 @@ Project Title:
 
 Description: 
 -------------
-    Explain the goal of the project, e.g., "This project demonstrates how to set up a secure AWS VPC architecture with public and private subnets, NAT Gateway, and VPC Peering."
+    Explain the goal of the project:
+   "This project demonstrates how to set up a secure AWS VPC architecture with public and private subnets, NAT Gateway, and VPC Peering."
 
 Features:
 ---------
