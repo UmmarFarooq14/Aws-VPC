@@ -19,7 +19,8 @@ Security Group & NACL Configuration:
 
 Configured Security Groups and Network ACLs for enhanced security at the network and instance levels.
 
-VPC Peering & Connectivity: Established VPC Peering connections for seamless communication between multiple VPCs.
+VPC Peering & Connectivity: 
+Established VPC Peering connections for seamless communication between multiple VPCs.
 EC2 Instance Deployment: Deployed and managed Linux-based EC2 instances in public and private subnets with secure access via bastion hosts.
 AWS Networking Best Practices: Applied industry best practices for cost optimization, scalability, and security in VPC setup.
 CloudFormation & Automation (Optional): Automated VPC provisioning and configuration using AWS CloudFormation templates or Terraform.
