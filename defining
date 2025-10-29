@@ -32,4 +32,6 @@ AWS Networking Best Practices:
 
 Applied industry best practices for cost optimization, scalability, and security in VPC setup.
 
-CloudFormation & Automation (Optional): Automated VPC provisioning and configuration using AWS CloudFormation templates or Terraform.
+CloudFormation & Automation (Optional):
+
+Automated VPC provisioning and configuration using AWS CloudFormation templates or Terraform.
