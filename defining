@@ -8,6 +8,7 @@ Internet Gateway & NAT Gateway Configuration:
 ---------------------------------------------
 
 Set up and managed Internet Gateways for public access and NAT Gateways for private subnet outbound traffic.
+
 Route Table Configuration: Created and managed route tables for directing traffic within VPC and between subnets.
 Security Group & NACL Configuration: Configured Security Groups and Network ACLs for enhanced security at the network and instance levels.
 VPC Peering & Connectivity: Established VPC Peering connections for seamless communication between multiple VPCs.
