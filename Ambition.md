@@ -8,4 +8,4 @@ Description:
 
 Features:
 ---------
-Highlight the main components of the setup (e.g., VPC, EC2 instances, NAT Gateway, route tables).
+    Highlight the main components of the setup (e.g., VPC, EC2 instances, NAT Gateway, route tables).
