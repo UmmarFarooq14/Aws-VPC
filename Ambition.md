@@ -1,6 +1,6 @@
 Project Title:
 --------------
-AWS VPC Architecture and Network Implementation
+  AWS VPC Architecture and Network Implementation
 
 Description: 
 -------------
