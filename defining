@@ -12,7 +12,7 @@ Internet Gateway & NAT Gateway Configuration:
 Route Table Configuration: 
 --------------------------
 
-Created and managed route tables for directing traffic within VPC and between subnets.
+  Created and managed route tables for directing traffic within VPC and between subnets.
 
 Security Group & NACL Configuration:
 ------------------------------------
