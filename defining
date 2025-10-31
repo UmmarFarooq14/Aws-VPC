@@ -22,12 +22,12 @@ Configured Security Groups and Network ACLs for enhanced security at the network
 VPC Peering & Connectivity: 
 ---------------------------
 
-Established VPC Peering connections for seamless communication between multiple VPCs.
+  Established VPC Peering connections for seamless communication between multiple VPCs.
 
 EC2 Instance Deployment: 
 -----------------------
 
-Deployed and managed Linux-based EC2 instances in public and private subnets with secure access via bastion hosts.
+  Deployed and managed Linux-based EC2 instances in public and private subnets with secure access via bastion hosts.
 
 AWS Networking Best Practices: 
 -----------------------------
