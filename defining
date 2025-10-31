@@ -37,4 +37,4 @@ Applied industry best practices for cost optimization, scalability, and security
 CloudFormation & Automation (Optional):
 ---------------------------------------
 
-Automated VPC provisioning and configuration using AWS CloudFormation templates or Terraform.
+    Automated VPC provisioning and configuration using AWS CloudFormation templates or Terraform.
