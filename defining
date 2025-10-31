@@ -17,7 +17,7 @@ Route Table Configuration:
 Security Group & NACL Configuration:
 ------------------------------------
 
-Configured Security Groups and Network ACLs for enhanced security at the network and instance levels.
+  Configured Security Groups and Network ACLs for enhanced security at the network and instance levels.
 
 VPC Peering & Connectivity: 
 ---------------------------
