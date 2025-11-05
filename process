@@ -2,7 +2,8 @@ A Detailed Explanation:
 
   Amazon Virtual Private Cloud (VPC) enables you to launch AWS resources in a logically isolated virtual network that you define. Here’s a detailed breakdown of AWS VPC architecture and its implementation process:
 
-1. Key Components of VPC Architecture
+1. Key Components of VPC Architecture:
+  ------------------------------------
 Subnets:
 
 Public Subnets: Directly accessible from the internet, used for resources like web servers.
