@@ -17,6 +17,7 @@ Private Subnets:
   Isolated from the internet, used for backend services or databases.
 
 Route Tables: 
+-------------
 Define how traffic is directed within the VPC and to external networks.
 
 Public Route Table: Routes traffic through the Internet Gateway.
