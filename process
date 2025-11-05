@@ -6,6 +6,7 @@ A Detailed Explanation:
   ------------------------------------
 
 Subnets:
+--------
 
 Public Subnets: Directly accessible from the internet, used for resources like web servers.
 Private Subnets: Isolated from the internet, used for backend services or databases.
