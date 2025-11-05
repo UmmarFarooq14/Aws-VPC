@@ -4,6 +4,7 @@ A Detailed Explanation:
 
 1. Key Components of VPC Architecture:
   ------------------------------------
+
 Subnets:
 
 Public Subnets: Directly accessible from the internet, used for resources like web servers.
