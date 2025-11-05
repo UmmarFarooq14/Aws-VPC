@@ -18,7 +18,7 @@ Private Subnets:
 
 Route Tables: 
 -------------
-Define how traffic is directed within the VPC and to external networks.
+  Define how traffic is directed within the VPC and to external networks.
 
 Public Route Table: Routes traffic through the Internet Gateway.
 Private Route Table: Routes private subnet traffic through the NAT Gateway for internet access.
