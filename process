@@ -8,7 +8,8 @@ A Detailed Explanation:
 Subnets:
 --------
 
-Public Subnets: Directly accessible from the internet, used for resources like web servers.
+Public Subnets: 
+Directly accessible from the internet, used for resources like web servers.
 Private Subnets: Isolated from the internet, used for backend services or databases.
 Route Tables: Define how traffic is directed within the VPC and to external networks.
 
