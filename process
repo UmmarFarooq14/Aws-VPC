@@ -31,7 +31,7 @@ Private Route Table:
 
 Internet Gateway (IGW): 
 -----------------------
-Enables internet connectivity for public subnets.
+  Enables internet connectivity for public subnets.
 
 NAT Gateway: Provides internet access to resources in private subnets without exposing them to incoming traffic from the internet.
 
