@@ -45,7 +45,7 @@ Security Groups:
 
 VPC Peering: 
 ------------
-Allows communication between VPCs in the same or different regions.
+  Allows communication between VPCs in the same or different regions.
 
 2. Steps to Implement AWS VPC Architecture
 Step 1: Create the VPC
