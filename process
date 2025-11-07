@@ -52,9 +52,10 @@ VPC Peering:
 Step 1: Create the VPC
 
   Define a CIDR block (e.g., 10.0.0.0/16) for your VPC. This range specifies the IP address space for your network.
+
 Step 2: Create Subnets
 
-Divide the CIDR block into smaller subnet ranges.
+  Divide the CIDR block into smaller subnet ranges.
 Example: 10.0.1.0/24 for a public subnet and 10.0.2.0/24 for a private subnet.
 Step 3: Set Up the Internet Gateway
 
