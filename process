@@ -82,6 +82,7 @@ Step 7: Deploy Resources
 
   Launch EC2 instances in public and private subnets as required.
   Configure instances with appropriate security groups and IAM roles.
+
 Step 8: Implement VPC Peering (Optional)
 
 If communication between two VPCs is needed, create a peering connection and update route tables to enable the connection.
