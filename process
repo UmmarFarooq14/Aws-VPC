@@ -106,4 +106,5 @@ High Availability:
 
   Distribute resources across multiple availability zones (AZs) for fault tolerance.
 
-Cost Optimization: Leverage NAT Gateway and private subnets to optimize costs without compromising security.
+Cost Optimization: 
+Leverage NAT Gateway and private subnets to optimize costs without compromising security.
