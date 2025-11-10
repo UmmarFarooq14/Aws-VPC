@@ -94,7 +94,8 @@ Scalability:
 
   Easily expand your network by adding subnets or increasing CIDR blocks.
 
-Security: Fine-grained control over inbound/outbound traffic with security groups and NACLs.
+Security:
+Fine-grained control over inbound/outbound traffic with security groups and NACLs.
 Flexibility: Customize the architecture to suit any application requirement.
 High Availability: Distribute resources across multiple availability zones (AZs) for fault tolerance.
 Cost Optimization: Leverage NAT Gateway and private subnets to optimize costs without compromising security.
