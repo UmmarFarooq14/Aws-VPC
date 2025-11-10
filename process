@@ -88,6 +88,7 @@ Step 8: Implement VPC Peering (Optional)
   If communication between two VPCs is needed, create a peering connection and update route tables to enable the connection.
 
 3. Benefits of AWS VPC Architecture
+
 Scalability: Easily expand your network by adding subnets or increasing CIDR blocks.
 Security: Fine-grained control over inbound/outbound traffic with security groups and NACLs.
 Flexibility: Customize the architecture to suit any application requirement.
