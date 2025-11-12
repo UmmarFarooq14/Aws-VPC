@@ -56,7 +56,9 @@ Create the VPC
         
   Define a CIDR block (e.g., 10.0.0.0/16) for your VPC. This range specifies the IP address space for your network.
 
-Step 2: Create Subnets
+Step 2:
+Create Subnets
+--------------
 
   Divide the CIDR block into smaller subnet ranges.
 
