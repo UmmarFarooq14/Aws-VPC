@@ -49,7 +49,9 @@ VPC Peering:
 
 2. Steps to Implement AWS VPC Architecture:
    ----------------------------------------
-Step 1: Create the VPC
+Step-1: 
+Create the VPC
+        
 
   Define a CIDR block (e.g., 10.0.0.0/16) for your VPC. This range specifies the IP address space for your network.
 
