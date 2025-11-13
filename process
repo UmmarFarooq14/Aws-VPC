@@ -67,7 +67,9 @@ Example:
 
 10.0.1.0/24 for a public subnet and 10.0.2.0/24 for a private subnet.
 
-Step 3: Set Up the Internet Gateway
+Step 3: 
+
+Set Up the Internet Gateway
 
   Attach the IGW to the VPC for internet connectivity in public subnets.
 
