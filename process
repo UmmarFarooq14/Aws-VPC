@@ -75,7 +75,7 @@ Set Up the Internet Gateway
   Attach the IGW to the VPC for internet connectivity in public subnets.
 
 Step 4: 
-
+-------
 Configure Route Tables
 
   Create a route table for public subnets and add a route to the IGW (0.0.0.0/0).
