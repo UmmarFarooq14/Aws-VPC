@@ -83,6 +83,7 @@ Configure Route Tables
   Create a route table for private subnets and add a route to the NAT Gateway.
 
 Step 5: 
+
 Set Up the NAT Gateway
 
   Deploy the NAT Gateway in the public subnet. Update the private route table to direct internet-bound traffic through the NAT Gateway.
