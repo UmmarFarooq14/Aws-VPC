@@ -90,6 +90,7 @@ Set Up the NAT Gateway
   Deploy the NAT Gateway in the public subnet. Update the private route table to direct internet-bound traffic through the NAT Gateway.
 
 Step 6: 
+
 Configure Security Groups and NACLs
 
   Security Groups: Allow only required traffic (e.g., SSH on port 22, HTTP on port 80).
