@@ -51,6 +51,7 @@ VPC Peering:
 2. Steps to Implement AWS VPC Architecture:
    ----------------------------------------
 Step-1: 
+
 Create the VPC
 --------------
         
