@@ -92,7 +92,7 @@ Set Up the NAT Gateway
 Step 6: 
 ------
 Configure Security Groups and NACLs
-
+-----------------------------------
 
   Security Groups: Allow only required traffic (e.g., SSH on port 22, HTTP on port 80).
   NACLs: Optionally implement subnet-level security rules.
