@@ -118,7 +118,7 @@ Implement VPC Peering (Optional)
    --------------------------------
 
 Scalability: 
-
+------------
 
   Easily expand your network by adding subnets or increasing CIDR blocks.
 
