@@ -123,7 +123,7 @@ Scalability:
   Easily expand your network by adding subnets or increasing CIDR blocks.
 
 Security:
-
+---------
 
   Fine-grained control over inbound/outbound traffic with security groups and NACLs.
 
