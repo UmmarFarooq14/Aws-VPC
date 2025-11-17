@@ -124,6 +124,7 @@ Scalability:
 
 Security:
 
+
   Fine-grained control over inbound/outbound traffic with security groups and NACLs.
 
 Flexibility: 
