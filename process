@@ -134,6 +134,7 @@ Flexibility:
 
 High Availability:
 
+
   Distribute resources across multiple availability zones (AZs) for fault tolerance.
 
 Cost Optimization: 
