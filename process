@@ -100,7 +100,7 @@ Configure Security Groups and NACLs
   NACLs: Optionally implement subnet-level security rules.
 
 Step 7: 
-
+-------
 Deploy Resources
 
   Launch EC2 instances in public and private subnets as required.
