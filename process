@@ -102,6 +102,7 @@ Configure Security Groups and NACLs
 Step 7: 
 -------
 Deploy Resources
+----------------
 
   Launch EC2 instances in public and private subnets as required.
   Configure instances with appropriate security groups and IAM roles.
