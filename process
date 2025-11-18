@@ -80,7 +80,6 @@ Step 5:
 -------
 Set Up the NAT Gateway
 ---------------------
-
   Deploy the NAT Gateway in the public subnet. Update the private route table to direct internet-bound traffic through the NAT Gateway.
 
 Step 6: 
