@@ -67,7 +67,6 @@ Step 3:
 -------
 Set Up the Internet Gateway
 ---------------------------
-
   Attach the IGW to the VPC for internet connectivity in public subnets.
 
 Step 4: 
