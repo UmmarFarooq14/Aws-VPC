@@ -23,7 +23,6 @@ Route Tables:
 
 Public Route Table:
 --------------------
-
   Routes traffic through the Internet Gateway.
 
 Private Route Table: 
