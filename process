@@ -57,7 +57,6 @@ Step 2:
 -------
 Create Subnets
 --------------
-
   Divide the CIDR block into smaller subnet ranges.
 
 Example:
