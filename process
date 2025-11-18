@@ -41,8 +41,7 @@ NAT Gateway:
 Security Groups: 
 ----------------
   Virtual firewalls for instances, controlling inbound and outbound traffic.
-
-  Network ACLs (Access Control Lists): Additional layer of security for subnets.
+ Network ACLs (Access Control Lists): Additional layer of security for subnets.
 
 VPC Peering: 
 ------------
