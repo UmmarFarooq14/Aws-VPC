@@ -17,7 +17,6 @@ Security Group & NACL Configuration:
 
 VPC Peering & Connectivity: 
 ---------------------------
-
   Established VPC Peering connections for seamless communication between multiple VPCs.
 
 EC2 Instance Deployment: 
