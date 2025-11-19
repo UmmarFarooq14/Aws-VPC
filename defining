@@ -25,7 +25,6 @@ EC2 Instance Deployment:
 
 AWS Networking Best Practices: 
 -----------------------------
-
     Applied industry best practices for cost optimization, scalability, and security in VPC setup.
 
 CloudFormation & Automation (Optional):
