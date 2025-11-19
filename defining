@@ -5,7 +5,6 @@ VPC Design & Deployment:
 
 Internet Gateway & NAT Gateway Configuration: 
 ---------------------------------------------
-
     Set up and managed Internet Gateways for public access and NAT Gateways for private subnet outbound traffic.
 
 Route Table Configuration: 
