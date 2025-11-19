@@ -21,7 +21,6 @@ VPC Peering & Connectivity:
 
 EC2 Instance Deployment: 
 -----------------------
-
   Deployed and managed Linux-based EC2 instances in public and private subnets with secure access via bastion hosts.
 
 AWS Networking Best Practices: 
